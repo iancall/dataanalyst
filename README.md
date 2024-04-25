@@ -1,4 +1,4 @@
-# About <a name="about"></a>
+# About <a name="About"></a>
 
 Eager and adaptable professional originally from the United States with a strong foundation in leadership, communication, and problem-solving seeking a Data Analyst position. Equipped with hands-on experience in customer relations, technical support, and project management, along with a Google Data Analytics Professional Certificate. Thrives in dynamic environments and committed to delivering actionable insights through data-driven analysis.
 
@@ -12,7 +12,7 @@ Eager and adaptable professional originally from the United States with a strong
 
 - [Education](#Education)
 
-## Portfolio Projects <a name="porfolio-projects"></a>
+## Portfolio Projects <a name="Porfolio-Projects"></a>
 
 ### Analyzing Musical Instrument Reviews on Amazon 
 
@@ -26,8 +26,10 @@ Eager and adaptable professional originally from the United States with a strong
 
 **Technology:** Excel/Google Sheets
 
-## Education <a name="education"></a>
+## Education <a name="Education"></a>
 
 Tacoma Community College - **General Education Diploma**
+
 Coursera - **Google Data Analytics Professional Certification**
+
 International TEFL Academy - **TEFL Certification**
