@@ -18,9 +18,11 @@ Eager and adaptable professional originally from the United States with a strong
 
 [Spreadsheet link](https://docs.google.com/spreadsheets/d/1e0jJ0V8LyWQd3NcE3BezebxCdlhUmukMsUTKwlNSbU8/edit?usp=sharing)
 
+[Cleaning & Questions Documentation Link](https://docs.google.com/document/d/1FeDxRxyAal7VF9LtlTtNvaIw6VV02DRW_b3UcVhaho8/edit)
+
 **Goal:** To analyze trends in musical instrument and equipment reviews on Amazon to give additional insights that allow for making informed business decisions on which musical product to market next and what time of year to implement marketing strategies. 
 
-**Description:** This dataset focused on analyzing a dataset of Amazon Musical Instrument Reviews from 2004 to 2014 for 900 different products (instruments). The dataset included reviewer IDs, asin (product IDs), individual ratings, reviewer usernames, text written, level of helpfulness, review summary, review time, and review date.
+**Description:** This Kaggle dataset focused on analyzing a dataset of Amazon Musical Instrument Reviews from 2004 to 2014 for 900 different products (instruments). The dataset included reviewer IDs, asin (product IDs), individual ratings, reviewer usernames, text written, level of helpfulness, review summary, review time, and review date.
 
 **Skills:** data import, data cleaning, data analysis, data visualization, data exploration
 
