@@ -36,7 +36,7 @@ Eager and adaptable professional originally from the United States with a strong
 
 **Goal:** Analyze eBay wristwatch listings from 2024 to identify emerging trends and key factors influencing sales performance, as well as competitive geographic regions. Utilize these insights to define a targeted niche for launching a new wristwatch business in the US. 
 
-**Description:** This Kaggle dataset focused on analyzing a dataset of Trending Ebay Watch Listings in 2024 for 2000 different products (instruments). The dataset included number of available watches, number of sold, item location, item number, price updated, price with currency, seller name, title, subtitle, and category/type.
+**Description:** This Kaggle dataset focused on analyzing a dataset of Trending Ebay Watch Listings in 2024 for 2000 different wristwatch listings. The dataset included number of available watches, number of sold, item location, item number, price updated, price with currency, seller name, title, subtitle, and category/type.
 
 **Skills:** market analysis, data cleaning, data import, data analysis, data visualization, data exploration
 
