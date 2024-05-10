@@ -30,7 +30,7 @@ Eager and adaptable professional originally from the United States with a strong
 
 ### Analyzing Trending Ebay Watch Listings
 
-[Spreadsheet link](https://docs.google.com/document/d/1WLGdXD4FgvMUdjNBt0dYsoXkwvFLkpcp53dxjV7Iq_s/edit?usp=sharing)
+[Spreadsheet link](https://docs.google.com/spreadsheets/d/1bHp1Zk3vygCmX6Xui7ODlecJ0CWsylQT8qQNAsRqPXc/edit#gid=1866498891)
 
 [Cleaning & Exploration Documentation Link](https://docs.google.com/document/d/1WLGdXD4FgvMUdjNBt0dYsoXkwvFLkpcp53dxjV7Iq_s/edit?usp=sharing)
 
