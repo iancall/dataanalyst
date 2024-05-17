@@ -16,7 +16,7 @@ Eager and adaptable professional originally from the United States with a strong
 
 ### Analyzing Musical Instrument Reviews on Amazon 
 
-[Spreadsheet link](https://docs.google.com/spreadsheets/d/1e0jJ0V8LyWQd3NcE3BezebxCdlhUmukMsUTKwlNSbU8/edit?usp=sharing)
+[Spreadsheet Link](https://docs.google.com/spreadsheets/d/1e0jJ0V8LyWQd3NcE3BezebxCdlhUmukMsUTKwlNSbU8/edit?usp=sharing)
 
 [Cleaning & Exploration Documentation Link](https://docs.google.com/document/d/1FeDxRxyAal7VF9LtlTtNvaIw6VV02DRW_b3UcVhaho8/edit)
 
@@ -30,7 +30,7 @@ Eager and adaptable professional originally from the United States with a strong
 
 ### Analyzing Trending Ebay Watch Listings
 
-[Spreadsheet link](https://docs.google.com/spreadsheets/d/1bHp1Zk3vygCmX6Xui7ODlecJ0CWsylQT8qQNAsRqPXc/edit#gid=1866498891)
+[Spreadsheet Link](https://docs.google.com/spreadsheets/d/1bHp1Zk3vygCmX6Xui7ODlecJ0CWsylQT8qQNAsRqPXc/edit#gid=1866498891)
 
 [Cleaning & Exploration Documentation Link](https://docs.google.com/document/d/1WLGdXD4FgvMUdjNBt0dYsoXkwvFLkpcp53dxjV7Iq_s/edit?usp=sharing)
 
@@ -44,7 +44,7 @@ Eager and adaptable professional originally from the United States with a strong
 
 ### Analyzing Aria's Reading Habits 
 
-[Spreadsheet link](https://docs.google.com/spreadsheets/d/1pYqQmsWW3wxGZOYQvdEdjx6-vlRb5-ESTM0H-kaKFF8/edit?usp=sharing)
+[Spreadsheet Link](https://docs.google.com/spreadsheets/d/1pYqQmsWW3wxGZOYQvdEdjx6-vlRb5-ESTM0H-kaKFF8/edit?usp=sharing)
 
 [Cleaning & Exploration Documentation Link](https://docs.google.com/document/d/13sUUyMU4qudAmpoQMK9PCwuWLYZgHxrH11yJ_75S6p8/edit?usp=sharing)
 
