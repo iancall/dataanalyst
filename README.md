@@ -1,6 +1,6 @@
 # About <a name="About"></a>
 
-Eager and adaptable professional originally from the United States with a strong foundation in leadership, communication, and problem-solving seeking a Data Analyst position. Equipped with hands-on experience in customer relations, technical support, and project management, along with a Google Data Analytics Professional Certificate. Thrives in dynamic environments and committed to delivering actionable insights through data-driven analysis.
+Eager and adaptable professional originally from the United States with a strong foundation in leadership, communication, and problem-solving. Equipped with hands-on experience in customer relations, technical support, and project management, along with a Google Data Analytics Professional Certificate. Thrives in dynamic environments and committed to delivering actionable insights through data-driven analysis.
 
 *This is a repository for my portfolio as a data analyst.*
 
