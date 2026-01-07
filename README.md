@@ -58,7 +58,7 @@ Eager and adaptable professional originally from the United States with a strong
 
 ## Education <a name="Education"></a>
 
-Ball State University - **Master's Degree in Data Science** 
+Ball State University - **Master's Degree in Data Science (expected May 2026)** 
 
 Tacoma Community College - **General Education Diploma**
 
