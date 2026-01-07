@@ -1,6 +1,6 @@
 # About <a name="About"></a>
 
-Eager and adaptable professional originally from the United States with a strong foundation in leadership, communication, and problem-solving. Equipped with hands-on experience in customer relations, technical support, and project management. 
+Eager and adaptable professional originally from the United States with a strong foundation in leadership, communication, and problem-solving. I have hands-on experience in customer relations, technical support, and project management. My related technical skills include Excel/Google Sheets, SQL, Python, and R. 
 
 *This is a repository for my Excel/Google Sheets projects as a data analyst.*
 
