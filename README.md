@@ -1,8 +1,8 @@
 # About <a name="About"></a>
 
-Eager and adaptable professional originally from the United States with a strong foundation in leadership, communication, and problem-solving. Equipped with hands-on experience in customer relations, technical support, and project management, along with a Google Data Analytics Professional Certificate. Thrives in dynamic environments and committed to delivering actionable insights through data-driven analysis.
+Eager and adaptable professional originally from the United States with a strong foundation in leadership, communication, and problem-solving. Equipped with hands-on experience in customer relations, technical support, and project management. 
 
-*This is a repository for my portfolio as a data analyst.*
+*This is a repository for my Excel/Google Sheets projects as a data analyst.*
 
 # Table of Contents:
 
@@ -58,8 +58,12 @@ Eager and adaptable professional originally from the United States with a strong
 
 ## Education <a name="Education"></a>
 
+Ball State University - **Master's Degree in Data Science** 
+
 Tacoma Community College - **General Education Diploma**
 
 Coursera - **Google Data Analytics Professional Certification**
+Coursera - **University of Michigan Python for Everybody Certification**
+Coursera - **IBM AI Professional Certification**
 
 International TEFL Academy - **TEFL Certification**
