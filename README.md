@@ -63,7 +63,9 @@ Ball State University - **Master's Degree in Data Science (expected May 2026)**
 Tacoma Community College - **General Education Diploma**
 
 Coursera - **Google Data Analytics Professional Certification**
+
 Coursera - **University of Michigan Python for Everybody Certification**
+
 Coursera - **IBM AI Professional Certification**
 
 International TEFL Academy - **TEFL Certification**
