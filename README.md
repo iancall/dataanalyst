@@ -1,4 +1,4 @@
-# About <a name="About"></a>
+# About
 
 Eager and adaptable professional originally from the United States with a strong foundation in leadership, communication, and problem-solving. I have hands-on experience in customer relations, technical support, and project management. My related technical skills include Excel/Google Sheets, SQL, Tableau, Python, and R. 
 
@@ -12,7 +12,7 @@ Eager and adaptable professional originally from the United States with a strong
 
 - [Education](#Education)
 
-## Portfolio Projects <a name="Porfolio-Projects"></a>
+## Portfolio Projects
 
 ### Customer Segmentation and Revenue Analysis with SQL and Tableau
 
@@ -72,7 +72,7 @@ Eager and adaptable professional originally from the United States with a strong
 
 **Technology:** Excel/Google Sheets
 
-## Education <a name="Education"></a>
+## Education
 
 Ball State University - **Master's Degree in Data Science (2026)** 
 
