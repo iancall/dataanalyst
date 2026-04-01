@@ -14,6 +14,20 @@ Eager and adaptable professional originally from the United States with a strong
 
 ## Portfolio Projects <a name="Porfolio-Projects"></a>
 
+### Customer Segmentation and Revenue Analysis with SQL and Tableau
+
+[Dashboard Link](https://public.tableau.com/views/CustomerDashboard_17750579779550/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[SQL Code Link](https://docs.google.com/document/d/1MAqiEQ5ifWwT6TR8UapcYzJ7jPGiZ22otlMtZss88b8/edit?usp=sharing)
+
+**Goal:** Analyzing online retail transaction data to find customer segments based on purchases made, as well as discovering which customers are considered high value.
+
+**Description:** This dataset is pulled from Kaggle. It shows all transactions between 1/12/2010 and 9/12/2011 for a UK-based and registered non-store online retailer. 
+
+**Skills:** data cleaning, SQL querying, Tableau dashboard creation, data visualization, data aggregation, customer segmentation, data exploration
+
+**Technology:** MySQL, Tableau, Excel
+
 ### Analyzing Musical Instrument Reviews on Amazon 
 
 [Spreadsheet Link](https://docs.google.com/spreadsheets/d/1e0jJ0V8LyWQd3NcE3BezebxCdlhUmukMsUTKwlNSbU8/edit?usp=sharing)
