@@ -1,6 +1,6 @@
 # About <a name="About"></a>
 
-Eager and adaptable professional originally from the United States with a strong foundation in leadership, communication, and problem-solving. I have hands-on experience in customer relations, technical support, and project management. My related technical skills include Excel/Google Sheets, SQL, Python, and R. 
+Eager and adaptable professional originally from the United States with a strong foundation in leadership, communication, and problem-solving. I have hands-on experience in customer relations, technical support, and project management. My related technical skills include Excel/Google Sheets, SQL, Tableau, Python, and R. 
 
 *This is a repository for my Excel/Google Sheets projects as a data analyst.*
 
@@ -19,6 +19,8 @@ Eager and adaptable professional originally from the United States with a strong
 [Dashboard Link](https://public.tableau.com/views/CustomerDashboard_17750579779550/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [SQL Code Link](https://docs.google.com/document/d/1MAqiEQ5ifWwT6TR8UapcYzJ7jPGiZ22otlMtZss88b8/edit?usp=sharing)
+
+[Kaggle Dataset Link](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)
 
 **Goal:** Analyzing online retail transaction data to find customer segments based on purchases made, as well as discovering which customers are considered high value.
 
